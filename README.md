@@ -1,6 +1,6 @@
 # Khetha Go
 
-**GovTech 2026 DHET Hackathon** — a Flutter app that helps South African learners work out what to do after school: which careers suit them, which qualifications they can get into, how to fund them, and how to apply.
+**GovTech 2026 DHET Hackathon** a Flutter app that helps South African learners work out what to do after school: which careers suit them, which qualifications they can get into, how to fund them, and how to apply.
 
 It runs on **iOS and Android** from one codebase, with a Cupertino-first design and frosted-glass UI.
 
